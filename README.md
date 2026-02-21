@@ -97,28 +97,7 @@ By the end of Stage 2, students will be able to:
 -   TensorFlow / PyTorch
 -   Jupyter Notebook / Google Colab
 
-------------------------------------------------------------------------
 
-## 📂 Repository Structure
-
-    .
-    ├── Lectures/
-    ├── Labs/
-    ├── Assignments/
-    ├── Projects/
-    └── README.md
-
-------------------------------------------------------------------------
-
-## 📊 Assessment Structure
-
--   Quizzes
--   Lab Assignments
--   Coding Tasks
--   Mini Project
--   Final Project
-
-------------------------------------------------------------------------
 
 ## 🚀 Final Project
 
